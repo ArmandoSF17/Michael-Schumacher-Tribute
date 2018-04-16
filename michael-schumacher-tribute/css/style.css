@@ -1,0 +1,23 @@
+body {
+  background-color: #F4FA58;
+  font-family: Source Sans Pro;
+  font-size: 18px
+}
+
+h1{
+  font-family: "Lobster", Times New Roman;
+  color: red;
+  font-size: 48px
+}
+h5{
+  font-size: 20px;
+  font-weight: bold;
+}
+.smaller-image {
+    width: 500px;
+  }
+h6{
+  font-weight: bold;
+  font-size: 25px;
+  color: red;
+}
